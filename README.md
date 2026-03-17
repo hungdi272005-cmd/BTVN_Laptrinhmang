@@ -32,3 +32,4 @@ chạy client
 ./sv_client 127.0.0.1 9000
 
 khi kết nối thành công thì nhập thông tin tương tự bài 3
+.
